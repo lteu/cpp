@@ -13,6 +13,7 @@ class Squadra {
       this->scudetti = scudetti;
       this->nome = nome;
     }
+     ~Squadra(); // optional destructor 
 };
 
 class Calciatore {

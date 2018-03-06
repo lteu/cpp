@@ -2,8 +2,11 @@ Esami di Programmazione (Informatica)
 ===
 
 ## Commandi:
+```
 $: g++ nomeclasse.cpp -o x
+
 $: ./x
+```
 
 
 ## Corso di riferimento

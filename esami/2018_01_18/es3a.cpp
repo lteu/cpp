@@ -12,6 +12,9 @@ class Abitazione {
     Abitazione (){
     }
     
+
+   
+
     int prezzo (int p){
       return p * metratura;
     }
